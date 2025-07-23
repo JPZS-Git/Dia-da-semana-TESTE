@@ -1,0 +1,14 @@
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\bin\Debug\net9.0\Dia-da-semana-TESTE.exe
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\bin\Debug\net9.0\Dia-da-semana-TESTE.deps.json
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\bin\Debug\net9.0\Dia-da-semana-TESTE.runtimeconfig.json
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\bin\Debug\net9.0\Dia-da-semana-TESTE.dll
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\bin\Debug\net9.0\Dia-da-semana-TESTE.pdb
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.AssemblyInfoInputs.cache
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.AssemblyInfo.cs
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.csproj.CoreCompileInputs.cache
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.dll
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\refint\Dia-da-semana-TESTE.dll
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.pdb
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\Dia-da-semana-TESTE.genruntimeconfig.cache
+C:\Users\joaop\GitHub\Dia-da-semana-TESTE\obj\Debug\net9.0\ref\Dia-da-semana-TESTE.dll
