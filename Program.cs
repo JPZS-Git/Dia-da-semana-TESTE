@@ -27,7 +27,7 @@
             Console.WriteLine("Sábado");
             break;
         default:
-            Console.WriteLine("Erro: número fora do intervalo de 1 a 7.");
+            Console.WriteLine("Erro: o número deve estar entre 1 ---- 7, por favor.");
             break;
     }
 }
